@@ -1,0 +1,10 @@
+v2.
+{<<"c:/Users/tells/Documents/crm/basis/_build/dev/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',module,<<"lib/connection.ex">>,
+ ['Elixir.Keyword',erlang,'Elixir.Module','Elixir.GenServer',
+  'Elixir.String.Chars','Elixir.Kernel.Utils','Elixir.List','Elixir.Kernel',
+  'Elixir.Protocol','Elixir.Behaviour','Elixir.Kernel.Typespec',
+  'Elixir.ArgumentError'],
+ [code,gen_server,global,'Elixir.System',error_logger,'Elixir.Code',
+  'Elixir.Process',proc_lib,gen],
+ [],nil}.
